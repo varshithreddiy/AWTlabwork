@@ -1,7 +1,7 @@
 const fetchUser = (id) => {
     return new Promise((resolve) => {
         console.log("Fetching user name");
-        resolve("varun");
+        resolve("varshith");
     });
 };
 
